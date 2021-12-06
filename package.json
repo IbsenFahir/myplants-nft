@@ -1,0 +1,23 @@
+{
+  "name": "myplants-nft",
+  "version": "0.0.1",
+  "description": "A simple NFT project to study",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "compile": "hardhat compile"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^10.0.0",
+    "hardhat": "^2.7.0",
+    "solc": "^0.8.10",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.3"
+  }
+}
