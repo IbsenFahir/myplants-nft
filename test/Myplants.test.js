@@ -35,10 +35,4 @@ describe("Myplants", () => {
 
   })
 
-  // it('can change the message', async () => {
-  //   const newMsg = "new message here!!"
-  //   await myplants.methods.setMessage(newMsg).send({ from: accounts[1] });
-  //   const message = await myplants.methods.message().call();
-  //   assert.equal(message, newMsg);
-  // })
 })
