@@ -1,14 +1,13 @@
 # My plants NFT
 
+A simple NFT project for learning purposes
 
-## Running
-
-### Compiling the contracts
+## Compiling the contracts
 ```
 yarn compile
 ```
 
-### Running tets
+## Running tets
 ```
 yarn test
 ```
